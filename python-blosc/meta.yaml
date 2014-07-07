@@ -54,7 +54,7 @@ test:
 about:
   home: http://github.com/blosc/python-blosc
   license: BSD License
-  summary: 'python-bindings for the blosc metacodec '
+  summary: 'python-bindings for the Blosc metacodec '
 
 # See
 # http://docs.continuum.io/conda/build.html for
