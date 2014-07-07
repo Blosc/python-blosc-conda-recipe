@@ -1,5 +1,5 @@
 package:
-  name: blosc
+  name: python-blosc
   version: !!str 1.2.4
 
 source:
