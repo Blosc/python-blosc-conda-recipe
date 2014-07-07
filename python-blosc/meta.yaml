@@ -54,7 +54,7 @@ test:
 about:
   home: http://github.com/blosc/python-blosc
   license: BSD License
-  summary: 'Blosc data compressor'
+  summary: 'python-bindings for the blosc metacodec '
 
 # See
 # http://docs.continuum.io/conda/build.html for
